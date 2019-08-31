@@ -1,0 +1,17 @@
+title: 
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/web-developer" 
+url: "https://www.ruben-gutierrez.com"
+twitter_username: rullbem
+github_username:  rullbem
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+sass: 
+  sass_dir: _sass
+  style: compressed
